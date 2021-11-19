@@ -1,5 +1,8 @@
 package proyectofuturo;
 
+/*
+    @author Maria Teresa Rocamora
+*/
 public class ProyectoFuturo {
     
     public static String veredicto(String valor1, String valor2) {
